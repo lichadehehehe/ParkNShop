@@ -1,0 +1,39 @@
+body {
+    height:95%;
+    font-family: 'dfpheibold-b5regular';
+}
+
+h1 {
+    text-align:center;
+}
+
+td {
+    font-size: 15px;
+    padding: 1px;
+}
+
+#productInformation {
+    font-family: 'dfpheibold-b5regular';
+    margin-top: 5px;
+    margin-left: 25%;
+    width: 50%;
+}
+
+#productInformation td{
+    
+    text-align: left;
+    color:white;
+}
+
+@font-face {
+
+   
+    font-family: 'dfpheibold-b5regular';
+    src: url('dfpheibold-b5-webfont.woff2') format('woff2'),
+         url('dfpheibold-b5-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+
+}
+

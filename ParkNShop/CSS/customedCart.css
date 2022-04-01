@@ -1,0 +1,83 @@
+body {
+    font-family: 'dfpheibold-b5regular';
+    color: white;
+    font-size:18px;
+}
+hr {
+    border-color: white;
+    border-width: 2px;
+    border-style: inset;
+    margin-bottom: 1px;
+    margin-top:1px;
+}
+h3{
+    margin:0;
+    color: black;
+}
+
+#clear-message{
+    margin-top: 50px;
+    color: yellow;
+    text-align: center;
+}
+
+a{
+    color: whitesmoke;
+}
+td {
+
+    padding:2px;
+    text-align:center;
+    font-size: 14px;
+}
+
+div{
+    overflow:auto;
+    text-align:center;
+}
+
+input{
+    margin:5px;
+    border-radius:3px;
+    font-size: 14px;
+    color: blue;
+    background-color:white;
+}
+
+input:active{
+    background-color:white;
+}
+input:hover{
+    background-color:white;
+}
+
+form{
+    float:right;
+    margin:0;
+}
+
+#list {
+    width: 100%;
+}
+#list td{
+	background-color: black;
+	color: white;
+    font-size: 12px;
+}
+#list th{
+	background-color: black;
+	color: white;
+    font-size: 15px;
+}
+
+@font-face {
+
+   
+    font-family: 'dfpheibold-b5regular';
+    src: url('dfpheibold-b5-webfont.woff2') format('woff2'),
+         url('dfpheibold-b5-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+
+}
